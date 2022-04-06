@@ -1,4 +1,11 @@
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/raj-kumar-dutta-b8613818b/))](https://www.linkedin.com/in/raj-kumar-dutta-b8613818b/)
+
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
