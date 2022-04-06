@@ -3,7 +3,7 @@ import React from "react";
 function DashboardUI() {
     return(
         <div>
-            <div className="box">
+            <div className="box box-shadow" >
                 <nav className="level">
                     <div className="level-item has-text-centered">
                         <div>
@@ -19,6 +19,8 @@ function DashboardUI() {
                         </div>
                     </div>
                 </nav>
+
+                <progress className="progress is-small is-primary" max="100">10%</progress>
 
                 <section className="hero is-primary">
                     <div className="hero-body">

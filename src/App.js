@@ -7,6 +7,8 @@ function App() {
   return (
     <div className="App">
         <div className="App-header">
+            <h1 class="title ">DASHBOARD</h1>
+
             <DashboardUI />
     </div>
     </div>
