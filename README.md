@@ -1,6 +1,6 @@
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/raj-kumar-dutta-b8613818b/))](https://www.linkedin.com/in/raj-kumar-dutta-b8613818b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/rk-dutta/))](https://www.linkedin.com/in/rk-dutta/)
 
 
 
