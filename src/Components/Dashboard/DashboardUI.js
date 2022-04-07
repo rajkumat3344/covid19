@@ -1,28 +1,29 @@
 import React from "react";
+import Btn from "../Button/Btn";
+
 
 function DashboardUI() {
     return(
         <div>
-            <div className="box box-shadow" >
+            <div className="box " >
                 <nav className="level">
                     <div className="level-item has-text-centered">
                         <div>
                             <p className="heading">Booked</p>
-                            <p className="title">3,456M</p>
+                            <p className="title">0</p>
                         </div>
                     </div>
 
                     <div className="level-item has-text-centered">
                         <div>
                             <p className="heading">Canceled</p>
-                            <p className="title">456K</p>
+                            <p className="title">0</p>
                         </div>
                     </div>
                 </nav>
 
-                <progress className="progress is-small is-primary" max="100">10%</progress>
 
-                <section className="hero is-primary">
+                <section className="hero is-primary is-medium">
                     <div className="hero-body">
                         <p className="title">
                             MOVIE
@@ -32,6 +33,8 @@ function DashboardUI() {
                         </p>
                     </div>
                 </section>
+                <br/>
+                <Btn />
             </div>
         </div>
     );
